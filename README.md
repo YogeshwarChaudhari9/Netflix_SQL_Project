@@ -1,4 +1,4 @@
-# Netflix_SQL_Project
+# Netflix Data Exploration & Analytics (MySQL)
 ![Netflix_logo](https://github.com/YogeshwarChaudhari9/Netflix_SQL_Project/blob/main/Nexflixlogo.jpeg)
 
 # Netflix Movies and TV Shows Data Analysis using SQL
